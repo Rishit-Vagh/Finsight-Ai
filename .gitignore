@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+data/raw/
+data/processed/
+vector_store/
+reports/generated/
+.streamlit/secrets.toml
